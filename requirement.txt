@@ -1,0 +1,9 @@
+accelerate==0.14.0
+datasets==2.5.1
+deepface==0.0.75
+deepspeed==0.7.5
+diffusers==0.4.0
+evaluate==0.3.0
+hsemotion==0.2
+omegaconf==2.2.3
+wandb==0.13.5
